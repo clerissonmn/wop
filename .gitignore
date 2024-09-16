@@ -1,3 +1,8 @@
+# Próprios do projeto
+grupos/
+user_pass.sh
+*.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
