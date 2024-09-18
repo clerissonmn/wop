@@ -1,6 +1,6 @@
 # Próprios do projeto
 grupos/
-user_pass.sh
+arquivo
 *.log
 
 # Byte-compiled / optimized / DLL files
